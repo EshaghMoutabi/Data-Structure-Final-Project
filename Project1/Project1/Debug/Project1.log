@@ -1,0 +1,32 @@
+﻿Build started 1/25/2016 5:15:48 AM.
+     1>Project "D:\CS lessons\data structure\taklif\#Extra\Maze\ui\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\software\visual stodio13\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\maze.h(377): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\maze.h(379): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\maze.h(486): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\MyForm.h(919): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\MyForm.h(923): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\MyForm.h(927): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\MyForm.h(982): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\MyForm.h(986): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\MyForm.h(990): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\MyForm.h(1038): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\MyForm.h(1042): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\MyForm.h(1046): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\MyForm.h(1088): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\MyForm.h(1092): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\MyForm.h(1098): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\maze.h(116): warning C4715: 'Maze::find_optimized' : not all control paths return a value
+     1>d:\cs lessons\data structure\taklif\#extra\maze\ui\project1\project1\maze.h(165): warning C4715: 'Maze::find' : not all control paths return a value
+       Link:
+         D:\software\visual stodio13\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CS lessons\data structure\taklif\#Extra\Maze\ui\Project1\Debug\Maze.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Project1.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\CS lessons\data structure\taklif\#Extra\Maze\ui\Project1\Debug\Maze.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Project1.vcxproj -> D:\CS lessons\data structure\taklif\#Extra\Maze\ui\Project1\Debug\Maze.exe
+     1>Done Building Project "D:\CS lessons\data structure\taklif\#Extra\Maze\ui\Project1\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.23
